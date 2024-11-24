@@ -26,8 +26,6 @@ dist/
 *.egg-info/
 .eggs/
 
-# 로그 파일 무시
-*.log
 
 # 테스트와 관련된 캐시 파일 무시
 .tox/
@@ -39,3 +37,40 @@ dist/
 
 # 환경 파일 무시
 .env
+
+# OS 종속성 무시
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# macOS Finder metadata
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.nfs*
+
+# 기타 공통 파일
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Backup files
+*.bak
+*.swp
+*.swo
+
