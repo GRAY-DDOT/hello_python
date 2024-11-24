@@ -1,0 +1,25 @@
+# 강의 전 준비
+
+## 1. GitHub 가입
+- 대학생의 경우 학생 인증할 것
+
+## 2. Google 계정 준비
+- Drive 최상위 위치(my-drive, 내 드라이브)에 학습 전용 폴더 만들기(hello_python)
+
+## 3. 개발환경 준비
+- Python 3.12 버전 다운로드
+    - pc 최상위 위치(ex. ₩C)에 dev_tools 폴더 생성
+    - dev_tools 하위에 python 폴더 추가 후 Python 3.12 설치
+- Jetbrains Pycharm 설치(필수, Jetbrains Toolbox 이용해 설치 시 편리)
+- Google Drive hello_python에서 colab 파일 만들어보기(필수)
+- VSCode 설치(선택)
+- Anaconda 설치(선택)
+
+## 4. 노션 계정 준비
+
+
+## (참고) 패키지 관리자(Package Manager) 사용 시 pc 세팅이 편함
+: 의존성, 환경 변수, 패키지 및 설치 파일 관리 용이
+
+- MacOs : HomeBrew
+- MS Window : Chocolatey
