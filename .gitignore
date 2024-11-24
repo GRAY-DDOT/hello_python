@@ -1,0 +1,41 @@
+# 기본적으로 모든 파일 무시
+*
+
+# src 디렉토리 포함
+!src/
+!src/**
+
+# PyCharm 설정 파일 무시
+.idea/
+
+# Python 가상환경 무시
+.venv/
+env/
+venv/
+
+# 컴파일된 Python 파일 무시
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook 체크포인트 무시
+.ipynb_checkpoints/
+
+# 빌드 관련 파일 무시
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# 로그 파일 무시
+*.log
+
+# 테스트와 관련된 캐시 파일 무시
+.tox/
+.nox/
+.pytest_cache/
+.coverage
+.coverage.*
+.cache
+
+# 환경 파일 무시
+.env
